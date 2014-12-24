@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadTree", "QuadTree.csproj", "{FE3B63BD-7671-43EA-B2CA-04BAC399FEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadTreeVisualTest", "QuadTreeVisualTest\QuadTreeVisualTest.csproj", "{776E09CC-C322-4102-8A43-58F4B1B0E525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadTreePerformanceTester", "QuadTreePerformanceTester\QuadTreePerformanceTester.csproj", "{9D108D81-8869-4345-8283-50264049C06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadTreeNormalUsageExample", "QuadTreeNormalUsageExample\QuadTreeNormalUsageExample.csproj", "{042E291D-90C1-4817-B48E-33B128814DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadTreeVisualTestContent", "QuadTreeVisualTest\Content\QuadTreeVisualTestContent.contentproj", "{E3D34B63-D34E-492D-AE3A-87C53E719A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadTreeNormalUsageExampleContent", "QuadTreeNormalUsageExample\Content\QuadTreeNormalUsageExampleContent.contentproj", "{76C468BF-88E9-4566-A430-71D0C77462DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitives2D", "..\Primitives2D\Primitives2D.csproj", "{39AD1482-1881-4852-A05D-DC61B0D3446A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3B63BD-7671-43EA-B2CA-04BAC399FEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3B63BD-7671-43EA-B2CA-04BAC399FEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3B63BD-7671-43EA-B2CA-04BAC399FEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3B63BD-7671-43EA-B2CA-04BAC399FEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776E09CC-C322-4102-8A43-58F4B1B0E525}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{776E09CC-C322-4102-8A43-58F4B1B0E525}.Debug|Any CPU.Build.0 = Debug|x86
+		{776E09CC-C322-4102-8A43-58F4B1B0E525}.Release|Any CPU.ActiveCfg = Release|x86
+		{776E09CC-C322-4102-8A43-58F4B1B0E525}.Release|Any CPU.Build.0 = Release|x86
+		{9D108D81-8869-4345-8283-50264049C06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D108D81-8869-4345-8283-50264049C06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D108D81-8869-4345-8283-50264049C06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D108D81-8869-4345-8283-50264049C06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042E291D-90C1-4817-B48E-33B128814DB8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{042E291D-90C1-4817-B48E-33B128814DB8}.Debug|Any CPU.Build.0 = Debug|x86
+		{042E291D-90C1-4817-B48E-33B128814DB8}.Release|Any CPU.ActiveCfg = Release|x86
+		{042E291D-90C1-4817-B48E-33B128814DB8}.Release|Any CPU.Build.0 = Release|x86
+		{E3D34B63-D34E-492D-AE3A-87C53E719A5C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E3D34B63-D34E-492D-AE3A-87C53E719A5C}.Release|Any CPU.ActiveCfg = Release|x86
+		{76C468BF-88E9-4566-A430-71D0C77462DA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{76C468BF-88E9-4566-A430-71D0C77462DA}.Release|Any CPU.ActiveCfg = Release|x86
+		{39AD1482-1881-4852-A05D-DC61B0D3446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AD1482-1881-4852-A05D-DC61B0D3446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AD1482-1881-4852-A05D-DC61B0D3446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AD1482-1881-4852-A05D-DC61B0D3446A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+This example is designed to use the QuadTree as a user might (basically, without all the stupid stuff we've done in the other testing apps). For an other real-world example, check out my game: https://sourceforge.net/projects/asteroidoutpost/
